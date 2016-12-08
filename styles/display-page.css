@@ -1,0 +1,51 @@
+main {
+	/*eliminate space*/
+	font-size: 0;
+}
+
+.big-box {
+	margin-top: 100px;
+	height: 500px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.in {
+	border: 1px black solid;
+	display:inline-block;
+
+}
+
+.line-1 {
+	height: 200px;
+	width: 50%;
+}
+
+.line-2 {
+	height: 300px;
+	width: 33.33%;
+}
+
+.in-1 {
+	background-color: green;
+}
+
+.in-2 {
+	background-color: blue;
+}
+
+.in-3 {
+	background-color: grey;
+}
+
+.in-4 {
+	background-color: black;
+}
+
+.in-5 {
+	background-color: orange;
+}
+
+.center {
+	text-align: center;
+}
