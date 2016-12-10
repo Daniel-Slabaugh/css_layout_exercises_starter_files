@@ -36,29 +36,28 @@ nav li::after {
   margin-left: 5px;
 }
 
-cat-dog-box {
-  margin-top: 150px;
-  width: 600px;
-  height: 300px;
-  position: relative;
-  border: 10px dotted green;
-  margin-left: auto;
-  margin-right: auto;
-  border:;
+.cat-dog-box {
+  	position: relative;
+	margin-top: 150px;
+	width: 600px;
+	height: 300px;
+	border: 10px green dotted;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
 .spacecat, .spacedog {
-  position: absolute;
-  width: 200px;
+  	position: absolute;
+  	width: 200px;
 }
 
 .spacecat {
-  top: -90px;
-  left: -90px;
+  	top: -90px;
+  	left: -90px;
 }
 
 .spacedog {
-  bottom: -120px;
-  right: -60px;
+  	bottom: -120px;
+  	right: -60px;
 }
