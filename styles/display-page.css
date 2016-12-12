@@ -4,11 +4,10 @@ main {
 }
 
 .big-box {
-	margin-top: 100px;
 	height: 500px;
 	width: 800px;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 100px auto;
+
 }
 .in {
 	border: 1px black solid;
@@ -44,8 +43,4 @@ main {
 
 .in-5 {
 	background-color: orange;
-}
-
-.center {
-	text-align: center;
 }

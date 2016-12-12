@@ -61,3 +61,8 @@ nav li::after {
   	bottom: -120px;
   	right: -60px;
 }
+
+body {
+	background: url(../images/outerspace_landscape.jpeg) no-repeat;
+  	background-size: cover;
+}
